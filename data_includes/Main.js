@@ -274,5 +274,3 @@ newTrial( "final" ,
         .wait()
 )    
 // o botão salvar pode ser substituído por uma botão de sair já que os resultados já foram salvos com o comando “SendResults”
-
-
